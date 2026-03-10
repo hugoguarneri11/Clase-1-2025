@@ -4,3 +4,5 @@
 
 ### Alumno: Mateo
 ### Alumno: Lucas
+### Alumno: Blas
+### Alumno: Manuel
