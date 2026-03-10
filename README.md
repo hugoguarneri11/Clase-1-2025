@@ -2,7 +2,4 @@
 
 ### Docente: Matias Duro
 
-### Alumno: Mateo
-### Alumno: Lucas
-### Alumno: Blas
-### Alumno: Manuel
+### Alumno: 
